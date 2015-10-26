@@ -1,8 +1,7 @@
 #right_column
 {
 	background-color:orange;
-	height:20em;
-	width:250px;
-	/*display:inline;*/
+	width:250px;	
 	float:right;
+
 }

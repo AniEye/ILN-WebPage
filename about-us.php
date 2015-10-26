@@ -10,14 +10,12 @@
 	</head>
 	<body>
 		<div id="wrapper">
-			<?php include "static_elements/header.php"; ?>
-				
-			<?php 
-				include "content/c_homepage.php";		
-				include "right_column/rc_homepage.php";	
+			<?php
+				include "static_elements/header.php";
+				include "content/c_about-us.php";
+				include "right_column/rc_homepage.php";
+				include "static_elements/footer.php";
 			?>
-			
-			<?php include "static_elements/footer.php";	?>
 		</div>
 	</body>
 </html>
