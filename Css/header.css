@@ -1,0 +1,37 @@
+html,
+body {
+	margin:0;
+	padding:0;
+	height:100%;
+}
+#wrapper {
+	min-height:100%;
+	position:relative;
+}
+#header {
+	background:#ededed;
+	padding:10px;
+}
+#logo
+{
+	margin-left:250px;
+	display:inline-block;
+}
+#right-menu
+{
+	float:right;
+	top:5px;
+	text-align:right;
+	margin-right:250px;
+	margin-top:2em;
+}
+
+#header nav a
+{
+	text-decoration:none;
+}
+
+#header nav
+{
+	font-size:20px;
+}
